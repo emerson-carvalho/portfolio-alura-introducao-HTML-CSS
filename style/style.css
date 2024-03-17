@@ -99,7 +99,7 @@ body {
     border-radius: 8px;        /* Ajusta arredondamento das pontas */
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 16px 0;      /* O primeiro valor é do eixo vertical e o segundo, do horizontal */
+    padding: 21.5px 0;      /* O primeiro valor é do eixo vertical e o segundo, do horizontal */
     text-decoration: none;      /* Retira o link do texto da âncora */
     color: var(--cor-secundaria);
     font-family: var(--font-secundaria);
